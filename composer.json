@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/auth",
+	"name":        "lestor/auth",
 	"type":        "kohana-module",
 	"description": "The official Kohana auth module",
 	"homepage":    "http://kohanaframework.org",
